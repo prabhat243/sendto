@@ -5,7 +5,7 @@ const gif = document.querySelector(".gif");
 
 // Change text and gif when the Yes button is clicked
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Tell me something i don't know";
+  question.innerHTML = "Love you more pookie";
   gif.src = "https://i.pinimg.com/originals/49/d3/b3/49d3b3a798665f7336936dbd65da7bd8.gif";
 });
 
